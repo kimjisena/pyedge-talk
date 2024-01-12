@@ -3,6 +3,7 @@ theme: apple-basic
 layout: intro-image
 image: '/pyedge-intro.jpg'
 title: pyedge
+transition: fade-out
 ---
 
 <div class="absolute top-10 ml-4">
