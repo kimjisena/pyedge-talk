@@ -28,6 +28,15 @@ transition: fade-out
 
 ---
 
+# this is not a meme
+
+<div class="w-full h-full flex items-center justify-center">
+ <img src="/python-is-a-c-framework.jpeg" alt="Kim Jisena" class="h-[80%] w-[80%]" />
+</div>
+
+
+---
+
 <div class="absolute top-30 right-40 ml-4 w-50 h-50">
   <iframe src="https://giphy.com/embed/0Vv0Ne2CnOClIExIuL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
@@ -67,6 +76,14 @@ transition: fade-out
 - **ecosystem integration:**
   - leveraging c allows seamless integration with existing c libraries and ecosystems, expanding the capabilities of Python applications
 -->
+
+---
+
+# so it is true...
+
+<div class="w-full h-full flex items-center justify-center">
+ <img src="/python-on-cpp.jpeg" alt="Kim Jisena" class="h-full w-[80%]" />
+</div>
 
 ---
 
